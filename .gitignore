@@ -1,0 +1,22 @@
+# Candidate data and spreadsheets
+*.xlsx
+*.xls
+*.csv
+
+# Offer letters and generated documents
+*.docx
+*.pdf
+
+# Apps Script credentials and local secrets
+.clasprc.json
+.clasp.json
+
+# Environment and secret files
+.env
+.env.*
+secrets/
+credentials/
+
+# Operating system files
+Thumbs.db
+.DS_Store
