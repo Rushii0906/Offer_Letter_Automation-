@@ -20,3 +20,10 @@ credentials/
 # Operating system files
 Thumbs.db
 .DS_Store
+
+# Apps Script project configuration
+.clasp.json
+apps-script/.clasp.json
+
+.clasp.json
+apps-script/appsscript.json
